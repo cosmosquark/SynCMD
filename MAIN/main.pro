@@ -23,11 +23,11 @@
 	col1='J'
 	col2='K'
 	mag_glob='J'
-	pop_q=0
+	pop_q=1
 ;
 	ntotstars=100000
-	maglim1=12
-	maglim2=14
+	maglim1=5
+	maglim2=30
 	collim1=0.23
 	collim2=0.45
 ;
